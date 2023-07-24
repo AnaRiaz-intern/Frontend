@@ -43,7 +43,12 @@ body {
   box-shadow: none;  
 
 }
-
+.fa-regular{
+  color: #ffffff; margin-left:50px;
+}
+.fa-brands{
+  color: #ffffff;
+}
 
 .navbar-nav li a{
   
